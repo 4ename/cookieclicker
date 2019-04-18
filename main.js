@@ -1804,7 +1804,7 @@ Game.Launch=function()
 							if (Game.Has('Perfect idling'))
 							{
 								var maxTime=60*60*24*1000000000;
-								var percent=parseFloat(Game.bakeryName);
+								var percent=100;
 							}
 							else
 							{
